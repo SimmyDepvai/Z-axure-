@@ -2500,79 +2500,79 @@ local W = Window:MakeTab({
 })
 
 local M = Window:MakeTab({
-    Name = "Chính/Main",
+    Name = "🏠Chính/Main",
     Icon = "rbxassetid://4483345998",
     PremiumOnly = false
 })
 
 local ST = Window:MakeTab({
-    Name = "Cài đặt/Settings",
+    Name = "🌇Cài đặt/Settings",
     Icon = "rbxassetid://4483345998",
     PremiumOnly = false
 })
 
 local IQ = Window:MakeTab({
-    Name = "Vật phẩm/Items",
+    Name = "🥴Vật phẩm/Items",
     Icon = "rbxassetid://4483345998",
     PremiumOnly = false
 })
 
 local S = Window:MakeTab({
-    Name = "chỉ số của Bạn/Your Stats ",
+    Name = "🎌chỉ số của Bạn/Your Stats ",
     Icon = "rbxassetid://4483345998",
     PremiumOnly = false
 })
 
 local E = Window:MakeTab({
-    Name = "định vị",
+    Name = "🇻🇳định vị",
     Icon = "rbxassetid://4483345998",
     PremiumOnly = false
 })
 
 local RA = Window:MakeTab({
-    Name = "tập kích/raid",
+    Name = "🤸tập kích/raid",
     Icon = "rbxassetid://4483345998",
     PremiumOnly = false
 })
 
 local LC = Window:MakeTab({
-    Name = "người chơi/player",
+    Name = "🧜người chơi/player",
     Icon = "rbxassetid://4483345998",
     PremiumOnly = false
 })
 
 local Wld = Window:MakeTab({
-    Name = "di chuyển",
+    Name = "🚶di chuyển/move",
     Icon = "rbxassetid://4483345998",
     PremiumOnly = false
 })
 
 local SV = Window:MakeTab({
-    Name = "Thông tin server",
+    Name = "🗽Thông tin server",
     Icon = "rbxassetid://4483345998",
     PremiumOnly = false
 })
 
 local D = Window:MakeTab({
-    Name = "Trái Ác quỷ/fruit",
+    Name = "🕵️Trái Ác quỷ/fruit",
     Icon = "rbxassetid://4483345998",
     PremiumOnly = false
 })
 
 local R = Window:MakeTab({
-    Name = "Tộc V4/Race V4",
+    Name = "🐰Tộc V4/Race V4",
     Icon = "rbxassetid://4483345998",
     PremiumOnly = false
 })
 
 local SH = Window:MakeTab({
-    Name = "cửa hàng",
+    Name = "🏨cửa hàng/shop",
     Icon = "rbxassetid://4483345998",
     PremiumOnly = false
 })
 
 local C = Window:MakeTab({
-    Name = "khác",
+    Name = "⁠(⁠o⁠_⁠O⁠)khác",
     Icon = "rbxassetid://4483345998",
     PremiumOnly = false
 })
